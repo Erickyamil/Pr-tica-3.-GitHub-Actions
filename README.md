@@ -26,17 +26,3 @@ mvn test
 
 # Ejecutar app
 mvn exec:java -Dexec.mainClass="com.practica3.calculadora.App"
-
-Operaciones
-➕ Suma
-
-➖ Resta
-
-✖️ Multiplicación
-
-➗ División (3 decimales)
-
-Pruebas
-7 tests unitarios con JUnit 5
-
-Cobertura: operaciones básicas, división por cero, negativos y decimales
