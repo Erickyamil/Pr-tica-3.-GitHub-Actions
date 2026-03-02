@@ -1,4 +1,4 @@
-package com.practica3.calculadora;
+package com.practica3.calculadora.mate;
 
 public class Operacion {
     private double num1;

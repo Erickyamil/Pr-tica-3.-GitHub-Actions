@@ -1,6 +1,9 @@
 package com.practica3.calculadora;
 
 import org.junit.jupiter.api.Test;
+
+import com.practica3.calculadora.mate.Operacion;
+
 import org.junit.jupiter.api.BeforeEach;
 import static org.junit.jupiter.api.Assertions.*;
 

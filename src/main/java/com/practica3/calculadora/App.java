@@ -2,6 +2,8 @@ package com.practica3.calculadora;
 
 import java.util.Scanner;
 
+import com.practica3.calculadora.mate.Operacion;
+
 public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
