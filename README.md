@@ -1,6 +1,7 @@
 # Calculadora Básica - Práctica 3
 
 ## Descripción
+Proyecto básico realizado en relación a las indicaciones de la práctica 3 de la materia de Despliegue de Software.
 Calculadora en Java con Maven que implementa suma, resta, multiplicación y división (con 3 decimales).
 
 ## Estructura
