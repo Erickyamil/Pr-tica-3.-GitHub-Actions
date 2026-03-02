@@ -4,13 +4,7 @@
 Calculadora en Java con Maven que implementa suma, resta, multiplicación y división (con 3 decimales).
 
 ## Estructura
-calculadora/
-├── pom.xml
-└── src/
-├── main/java/com/practica3/calculadora/
-│ ├── App.java
-│ └── operacion/Operacion.java
-└── test/java/com/practica3/calculadora/operacion/OperacionTest.java
+<img width="479" height="143" alt="image" src="https://github.com/user-attachments/assets/5bdfb0a1-5010-4313-b3ec-5e22a62fc8d3" />
 
 ## Requisitos
 - Java 17
