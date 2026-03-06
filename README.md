@@ -24,7 +24,8 @@ mvn exec:java -Dexec.mainClass="com.practica3.calculadora.App"
 ```
 
 ## Captura de salida
+
 <img width="1909" height="1033" alt="Captura de pantalla 2026-03-02 134006" src="https://github.com/user-attachments/assets/dacabd9e-f527-48fb-9fff-5a6cdc4e2e49" />
 
-
+<img width="1225" height="764" alt="Captura de pantalla 2026-03-06 130133" src="https://github.com/user-attachments/assets/e950866a-bddd-4634-9d44-39bc2787f0b9" />
 
