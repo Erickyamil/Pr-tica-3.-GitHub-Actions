@@ -23,8 +23,8 @@ mvn test
 mvn exec:java -Dexec.mainClass="com.practica3.calculadora.App"
 ```
 
-## Capturas de salida
-<img width="1919" height="1032" alt="Captura de pantalla 2026-03-02 131312" src="https://github.com/user-attachments/assets/f69d5181-6948-4c20-9bc7-1083e7b969d2" />
-<img width="1919" height="1033" alt="Captura de pantalla 2026-03-02 131338" src="https://github.com/user-attachments/assets/d22a3de7-6caa-4e85-abd1-b1dbe836dd03" />
+## Captura de salida
+<img width="1909" height="1033" alt="Captura de pantalla 2026-03-02 134006" src="https://github.com/user-attachments/assets/dacabd9e-f527-48fb-9fff-5a6cdc4e2e49" />
+
 
 
